@@ -58,4 +58,12 @@
 
  }
 ]
+ "deal":[
+ {
+  "Deal_id": "543",
+  "Last_Updated": "20\/08\/2000",
+  "City": "Las Vegas",
+  "Closing_Date": "20\/08\/2000",
+  "Country": "USA"
+]}
 }
